@@ -61,7 +61,7 @@ Proceso aplicado sobre un total inicial de **1,037 registros**:
 **Porcentaje eliminado:** 3.18%  
 **Datos finales para el análisis:** **1,004 registros** (96.82% del total)
 
-Para más detalles, consulta el [resultado de los analisis](.\\documents\\INFORME.md) del directorio /docs.
+Para más detalles, consulta el [resultado de los analisis](./documents/INFORME.md) del directorio /docs.
 
 
 
