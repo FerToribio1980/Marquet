@@ -63,8 +63,10 @@ Proceso aplicado sobre un total inicial de **1,037 registros**:
 
 Para más detalles, consulta el [resultado de los analisis](./documents/INFORME.md) del directorio /docs.
 
+**Autor**: Fernando Toribio Heras.
 
-
+**Trabajo realizado para**:
+Upgrade Hub.
 
 
 <img src="./img/upgrade_logo.jpg" alt="Description" width="50"> **Hub it all!**
